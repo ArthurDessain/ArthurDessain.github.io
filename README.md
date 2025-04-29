@@ -6,6 +6,9 @@ salaire ronaldo
 
 Salaire annuel brut : 200 000 000 €
 
+![image](https://github.com/user-attachments/assets/d9c82f9e-85b4-4559-b769-27c6eb1ef995)
+
+salire benzema
 ![image](https://github.com/user-attachments/assets/0cc2b044-c248-4105-b776-e581b2afacd2)
 
 salaire messi
