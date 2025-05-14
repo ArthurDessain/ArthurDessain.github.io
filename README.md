@@ -55,14 +55,14 @@ salaire mbappé
   <li>Joueur 5</li>
   <li>Joueur 6</li>
 </ul>
-# Haaland's salire Information
+# Haaland's salaire Information
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haaland's Salary</title>
+    <title>Haaland's Salaire</title>
     <style>
         .photo-container {
             text-align: center;
