@@ -32,3 +32,7 @@ TOP 5
 
 salaire mbappé
 
+![image](https://github.com/user-attachments/assets/835c4d6b-620d-4148-8a20-75ad8cf3bfbb)
+
+TOP 7 des meilleurs salaires : top 7 favé !
+
