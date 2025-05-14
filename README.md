@@ -56,5 +56,4 @@ salaire mbappé
   <li>Joueur 6</li>
 </ul>
 
-https://upload.wikimedia.org/wikipedia/commons/9/9f/Neymar_2018.jpg" alt="Photo de Neymar" onclick="afficherSalaire()">
 
