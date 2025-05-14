@@ -55,7 +55,7 @@ salaire mbappé
   <li>Joueur 5</li>
   <li>Joueur 6</li>
 </ul>
-# Haaland's Salary Information
+# Haaland's salire Information
 
 <!DOCTYPE html>
 <html lang="en">
