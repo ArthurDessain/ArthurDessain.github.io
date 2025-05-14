@@ -6,12 +6,16 @@ TOP 1
 
 salaire ronaldo
 <p>
-  Cliquez <a href="#plus de joueur ">ici</a> pour voir plus de joueurs.
+  <a href="#joueurs">Cliquez ici pour voir plus de joueurs</a>
 </p>
 
 <!-- Plus bas dans la page -->
-<h2 id="plus de joueurs"></h2>
-<p>Voici les joueurs supplémentaires...</p>
+<h2 id="joueurs">Liste des joueurs supplémentaires</h2>
+<ul>
+  <li>Joueur 4</li>
+  <li>Joueur 5</li>
+  <li>Joueur 6</li>
+</ul>
 
 Salaire annuel brut : 200 000 000 €
 
@@ -21,25 +25,31 @@ TOP 2
 
 salaire benzema
 <p>
-  Cliquez <a href="#plus de joueur ">ici</a> pour voir plus de joueurs.
+  <a href="#joueurs">Cliquez ici pour voir plus de joueurs</a>
 </p>
 
 <!-- Plus bas dans la page -->
-<h2 id="plus de joueurs"></h2>
-<p>Voici les joueurs supplémentaires...</p>
-
+<h2 id="joueurs">Liste des joueurs supplémentaires</h2>
+<ul>
+  <li>Joueur 4</li>
+  <li>Joueur 5</li>
+  <li>Joueur 6</li>
+</ul>
 ![image](https://github.com/user-attachments/assets/0cc2b044-c248-4105-b776-e581b2afacd2)
 
 salaire messi
 
 <p>
-  Cliquez <a href="#plus de joueur ">ici</a> pour voir plus de joueurs.
+  <a href="#joueurs">Cliquez ici pour voir plus de joueurs</a>
 </p>
 
 <!-- Plus bas dans la page -->
-<h2 id="plus de joueurs"></h2>
-<p>Voici les joueurs supplémentaires...</p>
-
+<h2 id="joueurs">Liste des joueurs supplémentaires</h2>
+<ul>
+  <li>Joueur 4</li>
+  <li>Joueur 5</li>
+  <li>Joueur 6</li>
+</ul>
 TOP 4
 
 ![image](https://github.com/user-attachments/assets/8d895783-bdc1-475a-a4ac-c842050205d2)
@@ -47,22 +57,30 @@ TOP 4
 salaire neymar
 
 <p>
-  Cliquez <a href="#plus de joueur ">ici</a> pour voir plus de joueurs.
+  <a href="#joueurs">Cliquez ici pour voir plus de joueurs</a>
 </p>
 
 <!-- Plus bas dans la page -->
-<h2 id="plus de joueurs"></h2>
-<p>Voici les joueurs supplémentaires...</p>
-
-TOP 5
+<h2 id="joueurs">Liste des joueurs supplémentaires</h2>
+<ul>
+  <li>Joueur 4</li>
+  <li>Joueur 5</li>
+  <li>Joueur 6</li>
+</ul>
 
 ![image](https://github.com/user-attachments/assets/227c36c8-4cd3-43e8-99c8-a10a81fbfbd3)
 
 salaire mbappé
 <p>
-  Pour en savoir plus, cliquez sur 
-  <a href="https://fr.wikipedia.org/wiki/Interaction" target="_blank">ce mot interactif</a>.
+  <a href="#joueurs">Cliquez ici pour voir plus de joueurs</a>
 </p>
 
+<!-- Plus bas dans la page -->
+<h2 id="joueurs">Liste des joueurs supplémentaires</h2>
+<ul>
+  <li>Joueur 4</li>
+  <li>Joueur 5</li>
+  <li>Joueur 6</li>
+</ul>
 
 
