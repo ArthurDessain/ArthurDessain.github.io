@@ -38,6 +38,55 @@ TOP 6
 
 Salaire Haaland
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salaire des Footballeurs</title>
+</head>
+<body>
+    <h1>Salaire des Footballeurs</h1>
+    
+    <h2>TOP 1</h2>
+    <img src="https://github.com/user-attachments/assets/a5d4b86f-101a-41c5-b819-5c6cd1fad798" alt="Cristiano Ronaldo">
+    <p>Salaire annuel brut : 200 000 000 €</p>
+    <a href="#ronaldo">En savoir plus sur Cristiano Ronaldo</a>
+    
+    <h2>TOP 2</h2>
+    <img src="https://github.com/user-attachments/assets/d9c82f9e-85b4-4559-b769-27c6eb1ef995" alt="Karim Benzema">
+    <p>Salaire annuel brut : 80 000 000 €</p>
+    <a href="#benzema">En savoir plus sur Karim Benzema</a>
+    
+    <img src="https://github.com/user-attachments/assets/0cc2b044-c248-4105-b776-e581b2afacd2" alt="Lionel Messi">
+    <p>Salaire annuel brut : 70 000 000 €</p>
+    <a href="#messi">En savoir plus sur Lionel Messi</a>
+    
+    <h2>TOP 4</h2>
+    <img src="https://github.com/user-attachments/assets/8d895783-bdc1-475a-a4ac-c842050205d2" alt="Neymar">
+    <p>Salaire annuel brut : 75 000 000 €</p>
+    <a href="#neymar">En savoir plus sur Neymar</a>
+    
+    <img src="https://github.com/user-attachments/assets/227c36c8-4cd3-43e8-99c8-a10a81fbfbd3" alt="Kylian Mbappé">
+    <p>Salaire annuel brut : 50 000 000 €</p>
+    <a href="#mbappe">En savoir plus sur Kylian Mbappé</a>
+
+    <h3 id="ronaldo">Cristiano Ronaldo</h3>
+    <p>Cristiano Ronaldo dos Santos Aveiro, surnommé CR7, est un footballeur international portugais...</p>
+
+    <h3 id="benzema">Karim Benzema</h3>
+    <p>Karim Benzema, surnommé KB9, est un footballeur international français...</p>
+
+    <h3 id="messi">Lionel Messi</h3>
+    <p>Lionel Messi, parfois surnommé Leo Messi, est un footballeur international argentin...</p>
+
+    <h3 id="neymar">Neymar</h3>
+    <p>Neymar da Silva Santos Júnior, dit Neymar Jr., est un footballeur international brésilien...</p>
+
+    <h3 id="mbappe">Kylian Mbappé</h3>
+    <p>Kylian Mbappé est un footballeur international français...</p>
+</body>
+</html>
 
 
 
