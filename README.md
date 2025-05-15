@@ -45,11 +45,8 @@ TOP 7
 
 Salaire Vinicius
 
-     <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/benzema.html" target="_blank">Salaire Benzema</a></li>
+    <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/benzema.html" target="_blank">Salaire Benzema</a></li>
         <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/messi.html" target="_blank">Salaire Messi</a></li>
         <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/neymar.html" target="_blank">Salaire Neymar</a></li>
         <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/mbappe.html" target="_blank">Salaire Mbappé</a></li>
         <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/haaland.html" target="_blank">Salaire Haaland</a></li>
-    </ul>
-</body>
-</html>
