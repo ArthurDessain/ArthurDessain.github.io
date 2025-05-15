@@ -20,18 +20,15 @@ salaire benzema
 
 salaire messi
 
-<p>
-  <a href="anciens-salaires.html">Pour voir ses anciens salaires</a>
-</p>
+
 TOP 4
 
 ![image](https://github.com/user-attachments/assets/8d895783-bdc1-475a-a4ac-c842050205d2)
 
 salaire neymar
 
-<p>
-  <a href="#joueurs">Cliquez ici pour voir plus de joueurs</a>
-</p>
+
+
 
 <!-- Plus bas dans la page -->
 <h2 id="joueurs">Liste des joueurs supplémentaires</h2>
