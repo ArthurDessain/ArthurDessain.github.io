@@ -29,21 +29,9 @@ salaire neymar
 
 
 
-
-<!-- Plus bas dans la page -->
-<h2 id="joueurs">Liste des joueurs supplémentaires</h2>
-<ul>
-  <li>Joueur 4</li>
-  <li>Joueur 5</li>
-  <li>Joueur 6</li>
-</ul>
-
 ![image](https://github.com/user-attachments/assets/227c36c8-4cd3-43e8-99c8-a10a81fbfbd3)
 
 salaire mbappé
-<p>
-  <a href="#joueurs">Cliquez ici pour voir plus de joueurs</a>
-</p>
 
 
 
