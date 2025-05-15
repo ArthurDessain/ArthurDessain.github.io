@@ -34,7 +34,8 @@ Salaire Mbappé
 
 TOP 6 
 
-![image](https://github.com/user-attachments/assets/ffb6889f-413c-4652-b30d-750b066e8e81)
+![haaland_salary_smaller](https://github.com/user-attachments/assets/30211aae-f579-4e29-9c8e-f9de18dfb7eb)
+
 
 Salaire Haaland
 
