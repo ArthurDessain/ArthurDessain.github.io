@@ -56,7 +56,7 @@ Salaire Vinicius
     <!-- Affichage de l'image de Ronaldo -->
     <img src="https://github.com/user-attachments/assets/a5d4b86f-101a-41c5-b819-5c6cd1fad798" alt="Salaire Ronaldo">
 
-    <!-- Liens vers les autres joueurs avec des URL cliquables -->
+    
     <ul>
         <li><a href="https://lien-vers-benzema.com" target="_blank"
         <li><a href="https://lien-vers-messi.com" target="_blank"
