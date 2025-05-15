@@ -58,11 +58,11 @@ Salaire Vinicius
 
     <!-- Liens vers les autres joueurs avec des URL cliquables -->
     <ul>
-        <li><a href="https://lien-vers-benzema.com" target="_blank">Salaire Benzema</a></li>
-        <li><a href="https://lien-vers-messi.com" target="_blank">Salaire Messi</a></li>
-        <li><a href="https://lien-vers-neymar.com" target="_blank">Salaire Neymar</a></li>
-        <li><a href="https://lien-vers-mbappe.com" target="_blank">Salaire Mbappé</a></li>
-        <li><a href="https://lien-vers-haaland.com" target="_blank">Salaire Haaland</a></li>
+        <li><a href="https://lien-vers-benzema.com" target="_blank"
+        <li><a href="https://lien-vers-messi.com" target="_blank"
+        <li><a href="https://lien-vers-neymar.com" target="_blank"
+        <li><a href="https://lien-vers-mbappe.com" target="_blank"
+        <li><a href="https://lien-vers-haaland.com" target="_blank"
     </ul>
 </body>
 </html>
