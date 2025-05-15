@@ -60,19 +60,18 @@ Salaire Vinicius
 </head>
 <body>
     <!-- Affichage de l'image de Ronaldo -->
-    <img src="https://github.com/user-attachments/assets/a5d4b86f-101a-41c5-b819-5c6cd1fad798" alt="Salaire Ronaldo">
+    <img src="https://raw.githubusercontent.com/user-attachments/assets/a5d4b86f-101a-41c5-b819-5c6cd1fad798/main/ronaldo-image.jpg" alt="Salaire Ronaldo">
 
     <!-- Liens vers les autres joueurs avec des URL cliquables -->
     <ul>
-        <li><a href="https://github.com/lien-vers-benzema" target="_blank">Salaire Benzema</a></li>
-        <li><a href="https://github.com/lien-vers-messi" target="_blank">Salaire Messi</a></li>
-        <li><a href="https://github.com/lien-vers-neymar" target="_blank">Salaire Neymar</a></li>
-        <li><a href="https://github.com/lien-vers-mbappe" target="_blank">Salaire Mbappé</a></li>
-        <li><a href="https://github.com/lien-vers-haaland" target="_blank">Salaire Haaland</a></li>
+        <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/benzema.html" target="_blank">Salaire Benzema</a></li>
+        <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/messi.html" target="_blank">Salaire Messi</a></li>
+        <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/neymar.html" target="_blank">Salaire Neymar</a></li>
+        <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/mbappe.html" target="_blank">Salaire Mbappé</a></li>
+        <li><a href="https://raw.githubusercontent.com/<votre-utilisateur>/<votre-dépôt>/main/haaland.html" target="_blank">Salaire Haaland</a></li>
     </ul>
 </body>
 </html>
-
 
 
       
