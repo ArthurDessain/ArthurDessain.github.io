@@ -48,34 +48,8 @@ salaire mbappé
   <a href="#joueurs">Cliquez ici pour voir plus de joueurs</a>
 </p>
 
-<!-- Plus bas dans la page -->
-<h2 id="joueurs">Liste des joueurs supplémentaires</h2>
-<ul>
-  <li>Joueur 4</li>
-  <li>Joueur 5</li>
-  <li>Joueur 6</li>
-</ul>
-# Haaland's salaire Information
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haaland's Salaire</title>
-    <style>
-        .photo-container {
-            text-align: center;
-            margin-top: 20px;
-        }
-        .photo {
-            width: 300px;
-            cursor: pointer;
-        }
-        .info {
-            display: none;
-            margin-top: 10px;
-            font-size: 18px;
-        }
+
+      
    
 
