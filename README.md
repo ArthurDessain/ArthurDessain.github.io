@@ -38,6 +38,13 @@ TOP 6
 
 
 Salaire Haaland
+
+TOP 7 
+
+![vinicius_salary_smaller](https://github.com/user-attachments/assets/b834f262-1e9e-4d4d-9130-50c588949d91)
+
+Salaire Vinicius
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
