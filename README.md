@@ -77,28 +77,5 @@ salaire mbappé
             margin-top: 10px;
             font-size: 18px;
         }
-    </style>
-</head>
-<body>
-
-<div class="photo-container">
-    <img src="haaland.jpg" alt="Erling Haaland" class="photo" onclick="toggleInfo()">
-    <div class="info" id="salary-info">
-        <p>Erling Haaland's Salary: €15 million per year</p>
-    </div>
-</div>
-
-<script>
-    function toggleInfo() {
-        var info = document.getElementById('salary-info');
-        if (info.style.display === 'none' || info.style.display === '') {
-            info.style.display = 'block';
-        } else {
-            info.style.display = 'none';
-        }
-    }
-</script>
-
-</body>
-</html>
+   
 
